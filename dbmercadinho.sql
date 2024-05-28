@@ -29,3 +29,5 @@ values('Mano','gabriel.mansousa@senacsp', '2345-1678','Rua manhatan',60,'bauru',
 
 insert into tbbancada(nome,email,telefone,endereco,numero,bairro,cidade,estado)
 values('Mana','gabriel.mansousa@senacsp','3421-3678','Rua bauru',30,'Manaus','Cuba','leste');
+
+
